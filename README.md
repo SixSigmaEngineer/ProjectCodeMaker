@@ -1,11 +1,11 @@
-# Project Code Maker
+# 🔍 Project Code Maker
 
 ![GitHub stars](https://img.shields.io/github/stars/SixSigmaEngineer/ProjectCodeMaker.svg?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/SixSigmaEngineer/ProjectCodeMaker.svg?style=for-the-badge)
 ![License](https://img.shields.io/github/license/SixSigmaEngineer/ProjectCodeMaker.svg?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/SixSigmaEngineer/ProjectCodeMaker.svg?style=for-the-badge)
 
-## Overview 🔍
+## 🔍 Overview
 
 Project Code Maker is a Python script that utilizes the OpenAI API and the LangChain library to generate unique and creative project codenames based on the client's business or product.
 
@@ -24,11 +24,13 @@ To use this project codename generator, follow these steps:
 git clone https://github.com/SixSigmaEngineer/ProjectCodeMaker.git
 cd ProjectCodeMaker
 Set up your OpenAI API Key:
-```bash
+
 Open the included python file.
 Replace 'YOUR_OPENAI_API_KEY' with your actual OpenAI API key.
-Install the required Python libraries:
 
+Install the required Python libraries:
+bash
+Copy code
 pip install langchain
 Run the generator:
 bash
@@ -38,7 +40,7 @@ Enter the type of business or product for which you need a project codename.
 
 The script will generate a unique codename and display it in the terminal.
 
-Customization
+### Customization
 You can customize the prompt template in the generator.py file to fit your specific needs. Adjust the template to ask for additional information or modify the generated codename as necessary.
 
 python
