@@ -1,0 +1,5 @@
+langchain==0.0.301
+
+
+
+# Ensure you add your OpenAI API Key which you can setup at https://openai.com/
