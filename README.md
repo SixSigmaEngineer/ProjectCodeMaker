@@ -40,7 +40,7 @@ Enter the type of business or product for which you need a project codename.
 
 The script will generate a unique codename and display it in the terminal.
 
-### Customization
+## Customization
 You can customize the prompt template in the generator.py file to fit your specific needs. Adjust the template to ask for additional information or modify the generated codename as necessary.
 
 python
