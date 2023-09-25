@@ -24,7 +24,7 @@ To use this project codename generator, follow these steps:
 git clone https://github.com/SixSigmaEngineer/ProjectCodeMaker.git
 cd ProjectCodeMaker
 Set up your OpenAI API Key:
-
+```bash
 Open the included python file.
 Replace 'YOUR_OPENAI_API_KEY' with your actual OpenAI API key.
 Install the required Python libraries:
