@@ -22,17 +22,17 @@ Project Code Maker is a Python tool that generates unique codenames for your cli
    git clone https://github.com/SixSigmaEngineer/ProjectCodeMaker.git
 Navigate to the project directory:
 
-bash
+```bash
 Copy code
 cd ProjectCodeMaker
 Set your OpenAI API key as an environment variable:
 
-bash
+```bash
 Copy code
 export OPENAI_API_KEY=your_api_key_here
 Run the project using the provided batch file:
 
-bash
+```bash
 Copy code
 ./run_project.sh
 Follow the on-screen instructions to enter the client's business or product type, and Project Code Maker will generate a unique codename.
@@ -42,14 +42,14 @@ LangChain Library
 OpenAI Python
 You can install the required dependencies using pip:
 
-bash
+```bash
 Copy code
 pip install langchain
 pip install openai
 Configuration
 You should set your OpenAI API key as an environment variable before running the project. Replace your_api_key_here with your actual API key.
 
-bash
+```bash
 Copy code
 export OPENAI_API_KEY=your_api_key_here
 Contributing
