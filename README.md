@@ -25,12 +25,10 @@ git clone https://github.com/SixSigmaEngineer/ProjectCodeMaker.git
 cd ProjectCodeMaker
 Set up your OpenAI API Key:
 
-Open the generator.py file.
+Open the included python file.
 Replace 'YOUR_OPENAI_API_KEY' with your actual OpenAI API key.
 Install the required Python libraries:
 
-bash
-Copy code
 pip install langchain
 Run the generator:
 bash
