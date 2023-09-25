@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/github/license/SixSigmaEngineer/ProjectCodeMaker.svg?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/SixSigmaEngineer/ProjectCodeMaker.svg?style=for-the-badge)
 
-## Overview
+## Overview 🔍
 
 Project Code Maker is a Python script that utilizes the OpenAI API and the LangChain library to generate unique and creative project codenames based on the client's business or product.
 
