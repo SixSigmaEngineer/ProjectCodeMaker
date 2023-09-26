@@ -60,7 +60,7 @@ Create a pull request.
 Please make sure your code follows the project's coding standards and includes relevant tests.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 If you have any questions or suggestions, feel free to contact the project owner:
